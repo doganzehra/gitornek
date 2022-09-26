@@ -6,6 +6,6 @@ public class App
     {
         System.out.println( "Hello first commit" );
         
-        System.out.println( "Hello first commit 2" );
+        System.out.println( "Hello first commit 3" );
     }
 }
